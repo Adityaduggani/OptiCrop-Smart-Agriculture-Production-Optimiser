@@ -1,0 +1,66 @@
+[
+  {
+    "id": "log-1783353937266",
+    "timestamp": "2026-07-06T16:05:37.266Z",
+    "user": "Duggani Adithya",
+    "role": "Researcher",
+    "action": "User profile updated: Duggani Adithya as Researcher.",
+    "status": "Success"
+  },
+  {
+    "id": "log-1783353783379",
+    "timestamp": "2026-07-06T16:03:03.379Z",
+    "user": "Duggani Adithya ",
+    "role": "Farmer",
+    "action": "New account created & logged in: Duggani Adithya  (Farmer) under 'Independent'.",
+    "status": "Success"
+  },
+  {
+    "id": "log-1783353761494",
+    "timestamp": "2026-07-06T16:02:41.494Z",
+    "user": "Unverified Client",
+    "role": "Farmer",
+    "action": "Failed authentication attempt for email: dugganiaditya663@gmail.com",
+    "status": "Security"
+  },
+  {
+    "id": "log-1",
+    "timestamp": "2026-06-27T08:15:30Z",
+    "user": "Admin Alex",
+    "role": "Administrator",
+    "action": "OptiCrop Agricultural Core engine diagnostic cycle completed.",
+    "status": "Success"
+  },
+  {
+    "id": "log-2",
+    "timestamp": "2026-06-27T08:24:12Z",
+    "user": "Dr. Sarah Green",
+    "role": "Researcher",
+    "action": "Generated Crop Suitability analysis for Delta Paddies region.",
+    "status": "Info"
+  },
+  {
+    "id": "log-3",
+    "timestamp": "2026-06-27T08:45:00Z",
+    "user": "Marcus Aurelius",
+    "role": "Farmer",
+    "action": "Triggered active zone-b (Valley Orchard) drip irrigation.",
+    "status": "Success"
+  },
+  {
+    "id": "log-4",
+    "timestamp": "2026-06-27T08:52:19Z",
+    "user": "Helena Sky",
+    "role": "Policymaker",
+    "action": "Simulated Midwest Plains Multi-Year policy with Water Conservation focus.",
+    "status": "Info"
+  },
+  {
+    "id": "log-5",
+    "timestamp": "2026-06-27T09:02:44Z",
+    "user": "Guest User",
+    "role": "Farmer",
+    "action": "Unauthorized attempt to access high-fidelity Research & Policy simulation logs.",
+    "status": "Security"
+  }
+]

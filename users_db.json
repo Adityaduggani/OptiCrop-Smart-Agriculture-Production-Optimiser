@@ -1,0 +1,57 @@
+[
+  {
+    "uid": "u-1",
+    "email": "sarah.green@agri-research.org",
+    "name": "Sarah Green",
+    "displayName": "Dr. Sarah Green",
+    "role": "Researcher",
+    "organization": "Global Agro-Ecological Union",
+    "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=120",
+    "createdAt": "2026-02-14T08:12:00Z",
+    "hashedPassword": "f1f1e6e2be2e0f2b74fa35fef426b2799762a921e1087b50247ca8d84b341981"
+  },
+  {
+    "uid": "u-2",
+    "email": "marcus.farm@organicways.com",
+    "name": "Marcus Aurelius",
+    "displayName": "Marcus Aurelius",
+    "role": "Farmer",
+    "organization": "Aurelius Organic Farms Ltd.",
+    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=120",
+    "createdAt": "2026-01-20T11:45:00Z",
+    "hashedPassword": "f1f1e6e2be2e0f2b74fa35fef426b2799762a921e1087b50247ca8d84b341981"
+  },
+  {
+    "uid": "u-3",
+    "email": "h.sky@agri-planning.gov",
+    "name": "Helena Sky",
+    "displayName": "Helena Sky",
+    "role": "Policymaker",
+    "organization": "Ministry of Agriculture & Water Planning",
+    "avatarUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=120",
+    "createdAt": "2026-03-05T09:30:00Z",
+    "hashedPassword": "f1f1e6e2be2e0f2b74fa35fef426b2799762a921e1087b50247ca8d84b341981"
+  },
+  {
+    "uid": "u-4",
+    "email": "admin@opticrop.ai",
+    "name": "Alex Admin",
+    "displayName": "Admin Alex",
+    "role": "Administrator",
+    "organization": "OptiCrop Systems Core",
+    "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=120",
+    "createdAt": "2025-11-01T00:00:00Z",
+    "hashedPassword": "f1f1e6e2be2e0f2b74fa35fef426b2799762a921e1087b50247ca8d84b341981"
+  },
+  {
+    "uid": "u-1783353783355",
+    "email": "dugganiaditya663@gmail.com",
+    "name": "Duggani Adithya",
+    "displayName": "Duggani Adithya",
+    "role": "Researcher",
+    "organization": "Independent",
+    "avatarUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=Duggani%20Adithya%20",
+    "createdAt": "2026-07-06T16:03:03.355Z",
+    "hashedPassword": "b32e634d4c061483b510d0f0500ded30a0cdf871bc4dbae8dd7a8db6d5632547"
+  }
+]

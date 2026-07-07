@@ -1,0 +1,6 @@
+{
+  "name": "OptiCrop",
+  "description": "Smart Agricultural Production Optimization Engine featuring AI-driven crop diagnostics, soil health analytics, and interactive farm planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
