@@ -88,13 +88,13 @@ Opti-Crop/
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/Opti-Crop.git
+   git clone https://github.com/Adityaduggani/OptiCrop-Smart-Agriculture-Production-Optimiser.git
    ```
 
 2. Navigate to the project directory
 
    ```bash
-   cd Opti-Crop
+   cd OptiCrop-Smart-Agriculture-Production-Optimiser
    ```
 
 3. Install dependencies
